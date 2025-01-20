@@ -51,5 +51,4 @@ This project involves the development of a comprehensive Tableau dashboard to an
 - Expand analysis to include additional regions and demographics.
 - Add predictive models to forecast sales trends.
 
-## **Contact**
-For questions or collaboration opportunities, feel free to contact **[Your Name]** at **[Your Email Address]**.
+
