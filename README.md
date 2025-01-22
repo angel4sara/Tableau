@@ -17,7 +17,6 @@ The repository is organized into the following folders:
 
 1. **`Dashboards/`**:
    - Contains Tableau dashboard files (`.twb` or `.twbx`).
-   - Subfolders for each project, e.g., `Sales Analysis`, `Market Trends`, etc.
 
 2. **`Datasets/`**:
    - Includes datasets used for the dashboards.
